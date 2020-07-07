@@ -7,7 +7,7 @@
 請自行修改源碼中的跳轉地址。
 
 ```php
-	$urlCN = "http://www.chinaelg.cn";
-	$urlEN = "http://www.chinaelg.com";
+$urlCN = "http://www.chinaelg.cn";
+$urlEN = "http://www.chinaelg.com";
 ```
 
